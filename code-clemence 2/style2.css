@@ -1,0 +1,79 @@
+.jumbotron-hero {
+	text-align: center;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.display-2{
+	text-align: center;
+
+}
+
+.facebook {
+	height: 40px;
+	width: 40px;
+}
+
+.insta {
+	height: 40px;
+	width: 40px;
+}
+
+.social {
+	  float: right;
+}
+
+.card {
+	text-align: center;
+}
+
+.titre1 {
+	text-align: center;
+}
+
+
+.titre3 {
+	text-align: center;
+}
+
+.jumbotron{
+  height: 450px;
+  background-image: url("media/presentation-mode.jpg");
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+  color: white;
+}
+
+.card-group{
+text-align:center;
+height:100px;
+
+}
+
+
+.my-4{
+ 	text-align: center;
+}
+
+.container{
+	text-align: center;
+}
+
+
+.footer-right {
+  float: right;
+ 
+}
+
+.footer-left {
+  float: left;
+
+}
+
+.container {
+
+	background-color; white;
+	}
